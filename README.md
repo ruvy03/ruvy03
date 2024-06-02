@@ -9,8 +9,7 @@
 - **Database Management**: Skilled in MySQL and MongoDB for database creation, management, and performing CRUD operations.
 - **Data Analytics**: Proficient in R and SQL for data analysis, manipulation, and visualization.
 - **Programming**: Strong understanding of Object-Oriented Programming concepts using C++ and Java.
-- **Tools & Platforms**: Comfortable with Microsoft Office Suite, Windows, Linux, and macOS.
-- **Problem Solving**: Adept at analyzing complex issues and developing innovative solutions.
+
 
 ## 🌟 Experience
 
