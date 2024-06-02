@@ -14,13 +14,8 @@
 
 ## 🌟 Experience
 
-### Full Stack Web Development Intern at Athena Automation
+### Full Stack Web Development Intern
 *Dec 2023 - Mar 2024*
-
-- Developed a dynamic and responsive machine monitoring system using MySQL, React, Express, and Node.js.
-- Ensured industry-standard adherence using GitHub and Remote Desktop connections.
-- Scripted asynchronous queries and visualized data using APIs like Google Charts.
-- Collaborated with a dynamic team to tackle complex challenges, leveraging GitHub for efficient code integration and synchronization.
 
 ## 🚀 Projects
 
@@ -30,13 +25,14 @@
 - **Real-time Weather App**: Engineered a weather application with automatic location fetching and dynamic updates using OpenWeather API, JavaScript, and React.
 - **Expense Tracker (MERN stack)**: Developed a comprehensive expense tracker application utilizing MongoDB, Express.js, React, and Node.js.
 - **Student Result Analysis App (MERN stack)**: Built a robust student result analysis application leveraging the MERN stack for efficient management of student records.
+- **Image to ASCII Art**: Converted images to ASCII art using JavaScript to create a unique text-based representation of images.
+- **Focus App**: Developed a productivity application with a Pomodoro timer, changeable background, to-do list, and music player using React.
 
 ## 📈 GitHub Stats
 
-![Dhruv's GitHub stats](https://github-readme-stats.vercel.app/api?username=DhruvSinha2003&show_icons=true&theme=radical)
+![Dhruv's GitHub stats](https://github-readme-stats.vercel.app/api?username=DhruvSinha2003&show_icons=true&theme=radical&count_private=true&include_all_commits=true&hide=prs,issues,contribs)
 
 ## 📫 Get in Touch
 
 - **Email**: [dhruv.sinha06@gmail.com](mailto:dhruv.sinha06@gmail.com)
 - **LinkedIn**: [linkedin.com/in/dhruvsinha2003](https://www.linkedin.com/in/dhruvsinha2003)
-- **GitHub**: [github.com/DhruvSinha2003](https://github.com/DhruvSinha2003)
