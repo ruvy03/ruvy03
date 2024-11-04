@@ -13,11 +13,12 @@
 
 ## 🌟 Experience
 
+### Frontend Development Intern
+*Jul 2024 - Jan 2025*
+
 ### Full Stack Web Development Intern
 *Dec 2023 - Mar 2024*
 
-### Frontend Development Intern
-*Jul 2024 - Jan 2025*
 
 ## 🚀 Projects
 
