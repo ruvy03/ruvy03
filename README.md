@@ -16,6 +16,9 @@
 ### Full Stack Web Development Intern
 *Dec 2023 - Mar 2024*
 
+### Frontend Development Intern
+*Jul 2024 - Jan 2025*
+
 ## 🚀 Projects
 
 - **Digital Collaboration Platform**: Facilitated remote and distributed project management using Next.js, TypeScript, TailwindCSS, ShadcnUI, Clerk for authentication, and Convex as backend-as-a-service.
