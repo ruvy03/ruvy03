@@ -30,6 +30,7 @@
 - **Student Result Analysis App (MERN stack)**: Built a robust student result analysis application leveraging the MERN stack for efficient management of student records.
 - **Image to ASCII Art**: Converted images to ASCII art using JavaScript to create a unique text-based representation of images.
 - **Focus App**: Developed a productivity application with a Pomodoro timer, changeable background, to-do list, and music player using React.
+- **Album Art Wallpaper**: Allows users to create custom wallpapers using album art from Spotify. Search for album covers, customize the background with solid colors or gradients, and apply shadow effects and download the image.
 
 ## 📈 GitHub Stats
 
