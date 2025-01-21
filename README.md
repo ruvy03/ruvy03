@@ -1,5 +1,5 @@
-# Dhruv Sinha
-### Web Developer.
+<h1 style="display: inline;">Dhruv Sinha</h1>
+<h3 style="display: inline; float: right;">Web Developer</h3>
 
 ## Skills & Technologies
 
