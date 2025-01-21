@@ -1,11 +1,8 @@
-<div align="center">
-  <h1 style="display: inline-block;">Dhruv Sinha</h1>
-  <span style="float: right;">Web Developer</span>
-</div>
+# Dhruv Sinha &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Web Developer
 
 ## Skills & Technologies
 - TypeScript, JavaScript, Python
-- HTML, CSS, Bootstrap, React, Next.js 
+- HTML, CSS, Bootstrap, React, Next.js
 - Node.js, Express.js
 - MySQL, MongoDB, PostgreSQL
 - R, SQL
