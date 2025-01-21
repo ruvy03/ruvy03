@@ -1,6 +1,7 @@
 <div align="center">
   <h1 style="display: inline-block;">Dhruv Sinha</h1>
   <span style="float: right;">Web Developer</span>
+<br>
 
   <p align="center">
     <a href="mailto:dhruv.sinha06@gmail.com"><img src="https://img.shields.io/badge/Email-dhruv.sinha06%40gmail.com-blue?style=flat-square&logo=gmail"></a>
@@ -8,7 +9,6 @@
   </p>
 </div>
 
-<br>
 
 <div align="center">
 
