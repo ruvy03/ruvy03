@@ -36,12 +36,14 @@
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=amazon-dynamodb&logoColor=white)
+  <br/>
 
 <table>
   <tr>
     <td valign="top" width="50%">
       
 ## Experience
+  <br/>
 
 ### Frontend Development Intern
 *Jul 2024 - Jan 2025*
@@ -53,6 +55,7 @@
     <td valign="top" width="50%">
       
 ## GitHub Stats
+  <br/>
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DhruvSinha2003&layout=compact&theme=github_dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
