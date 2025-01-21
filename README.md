@@ -4,10 +4,9 @@
   <br/>
   
   <p align="center">
-<a href="mailto:dhruv.sinha06@gmail.com"><img src="https://img.shields.io/badge/Email-dhruv.sinha06%40gmail.com-red?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
-&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/dhruvsinha2003"><img src="https://img.shields.io/badge/LinkedIn-dhruvsinha2003-blue?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-
+    <a href="mailto:dhruv.sinha06@gmail.com"><img src="https://img.shields.io/badge/Email-dhruv.sinha06%40gmail.com-red?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
+    &nbsp;&nbsp;
+    <a href="https://www.linkedin.com/in/dhruvsinha2003"><img src="https://img.shields.io/badge/LinkedIn-dhruvsinha2003-blue?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   </p>
 </div>
 
@@ -36,29 +35,24 @@
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=amazon-dynamodb&logoColor=white)
-  <br/>
 
-<table>
+<br/>
+
+<table align="center" border="0" cellspacing="0" cellpadding="0">
   <tr>
-    <td valign="top" width="50%">
-      
-## Experience
-  <br/>
-### Frontend Development Intern
-*Jul 2024 - Jan 2025*
-
-### Full Stack Web Development Intern
-*Dec 2023 - Mar 2024*
-
-   </td>
-    <td valign="top" width="50%">
-      
-## GitHub Stats
-  <br/>
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DhruvSinha2003&layout=compact&theme=github_dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-
-   </td>
+    <td valign="top" width="50%" style="padding: 0 20px;">
+      <h2 align="center">Experience</h2>
+      <div align="left">
+        <h3>Frontend Development Intern</h3>
+        <p><em>Jul 2024 - Jan 2025</em></p>
+        <h3>Full Stack Web Development Intern</h3>
+        <p><em>Dec 2023 - Mar 2024</em></p>
+      </div>
+    </td>
+    <td valign="top" width="50%" style="padding: 0 20px;">
+      <h2 align="center">GitHub Stats</h2>
+      <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DhruvSinha2003&layout=compact&theme=github_dark&border_color=30363d" />
+    </td>
   </tr>
 </table>
 
