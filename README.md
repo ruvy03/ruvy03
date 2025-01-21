@@ -1,6 +1,5 @@
 # Dhruv Sinha
-
-I am Dhruv Sinha, a web developer specializing in creating dynamic web applications.
+###Web Developer.
 
 ## Skills & Technologies
 
