@@ -1,16 +1,16 @@
-<h1 style="display: inline;">Dhruv Sinha</h1>
-<h3 style="display: inline; float: right;">Web Developer</h3>
+<div align="center">
+  <h1 style="display: inline-block;">Dhruv Sinha</h1>
+  <span style="float: right;">Web Developer</span>
+</div>
 
 ## Skills & Technologies
-
 - TypeScript, JavaScript, Python
-- HTML, CSS, Bootstrap, React, Next.js
+- HTML, CSS, Bootstrap, React, Next.js 
 - Node.js, Express.js
 - MySQL, MongoDB, PostgreSQL
 - R, SQL
 
 ## Experience
-
 ### Frontend Development Intern
 *Jul 2024 - Jan 2025*
 
@@ -18,10 +18,8 @@
 *Dec 2023 - Mar 2024*
 
 ## GitHub Stats
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DhruvSinha2003&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Get in Touch
-
 - **Email**: [dhruv.sinha06@gmail.com](mailto:dhruv.sinha06@gmail.com)
 - **LinkedIn**: [linkedin.com/in/dhruvsinha2003](https://www.linkedin.com/in/dhruvsinha2003)
