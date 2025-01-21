@@ -44,7 +44,6 @@
       
 ## Experience
   <br/>
-
 ### Frontend Development Intern
 *Jul 2024 - Jan 2025*
 
