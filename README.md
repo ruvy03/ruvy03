@@ -1,14 +1,16 @@
 <div align="center">
   <h1 style="display: inline-block;">Dhruv Sinha</h1>
-  <span style="float: right;">Web Developer</span>
-<br>
+  <h3 style="display: inline-block; margin-left: 10px;">Web Developer</h3>
 
+  <br/>
+  <br/>
+  
   <p align="center">
-    <a href="mailto:dhruv.sinha06@gmail.com"><img src="https://img.shields.io/badge/Email-dhruv.sinha06%40gmail.com-blue?style=flat-square&logo=gmail"></a>
-    <a href="https://www.linkedin.com/in/dhruvsinha2003"><img src="https://img.shields.io/badge/LinkedIn-dhruvsinha2003-blue?style=flat-square&logo=linkedin"></a>
+    <a href="mailto:dhruv.sinha06@gmail.com"><img src="https://img.shields.io/badge/Email-dhruv.sinha06%40gmail.com-blue?style=for-the-badge&logo=gmail"></a>
+    &nbsp;&nbsp;
+    <a href="https://www.linkedin.com/in/dhruvsinha2003"><img src="https://img.shields.io/badge/LinkedIn-dhruvsinha2003-blue?style=for-the-badge&logo=linkedin"></a>
   </p>
 </div>
-
 
 <div align="center">
 
