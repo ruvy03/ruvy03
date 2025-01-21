@@ -1,4 +1,4 @@
-# Dhruv Sinha &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Web Developer
+# Dhruv Sinha <sub>Web Developer</sub>
 
 ## Skills & Technologies
 - TypeScript, JavaScript, Python
