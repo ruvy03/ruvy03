@@ -39,7 +39,7 @@
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=amazon-dynamodb&logoColor=white)
 <br/>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=DhruvSinha2003&theme=transparent&hide_border=true)](https://git.io/streak-stats)
+[![](https://streak-stats.demolab.com?user=DhruvSinha2003&theme=transparent&hide_border=true)](https://git.io/streak-stats)
 <br/>
 
 
