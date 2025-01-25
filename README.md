@@ -38,6 +38,8 @@
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=amazon-dynamodb&logoColor=white)
 <br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=DhruvSinha2003&theme=radical&hide_border=false)<br/>
+
 
 <table align="center" border="0" cellspacing="0" cellpadding="0">
   <tr>
