@@ -39,10 +39,6 @@
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=amazon-dynamodb&logoColor=white)
 <br/>
 
-[![](https://streak-stats.demolab.com?user=DhruvSinha2003&theme=dark-smoky&border_radius=0)]()
-
-<br/>
-
 
 <table align="center" border="0" cellspacing="0" cellpadding="0">
   <tr>
