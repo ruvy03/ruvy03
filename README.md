@@ -62,7 +62,7 @@
     </td>
     <td valign="top" width="50%" style="padding: 0 20px;">
       <h2 align="center">GitHub Stats</h2>
-      <img width="100%" src="github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=DhruvSinha2003&layout=compact&theme=github_dark&border_color=30363d" />
+      <img width="100%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ruvy03&layout=compact&theme=github_dark&border_color=30363d" />
     </td>
   </tr>
 </table>
